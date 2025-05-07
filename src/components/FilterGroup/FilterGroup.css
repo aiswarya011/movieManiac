@@ -1,0 +1,13 @@
+.movie_filter {
+    list-style: none;
+    font-size: 16px;
+}
+
+.movie_list_item.active {
+    border-bottom: 1px solid;
+    font-weight: 500;
+}
+.movie_list_item{
+    padding: 5px 10px;
+    cursor: pointer;
+}
