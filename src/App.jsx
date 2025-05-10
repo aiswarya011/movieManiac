@@ -1,5 +1,5 @@
-import React, { useState } from 'react'
-import './app.css'
+
+import './App.css'
 import NavBar from './components/NavBar/NavBar'
 import MovieList from './components/MovieList/MovieList'
 
